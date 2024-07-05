@@ -1,5 +1,6 @@
-# 🚀 ZeroClear-Manager-Net||使用C#开发的零尘面板
+# 🚀 ZeroClear-Manager||零尘面板
 >*该项目从[ZeroClear易语言版](https://github.com/Litezero/ZeroClear-Manager)发展而来，由于Mojang Studio在1.21取消了BDS核心的pdb推送，导致该项目方向转变至PNX/JE-BE互通核心*
+>*使用C#重新开发*
 
 ![ZeroClear-Manager](https://socialify.git.ci/Litezero/ZeroClear-Manager-Net/image?description=1&descriptionEditable=%E6%96%B0%E6%97%B6%E4%BB%A3BDS%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%E9%9D%A2%E6%9D%BF&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Fs1.ax1x.com%2F2022%2F11%2F11%2FzCmh0e.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
